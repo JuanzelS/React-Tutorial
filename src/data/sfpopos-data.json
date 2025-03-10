@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "50 California Street",
+    "address": "50 California St.",
+    "image": "50-california-st.jpg",
+    "hours": "Open daily 9 AM - 5 PM",
+    "features": ["outdoors", "coffee"],
+    "geo": { "lat": 37.792, "lon": -122.396 }
+  },
+  {
+    "id": 2,
+    "title": "100 Pine Street",
+    "address": "100 Pine St.",
+    "image": "100-pine.jpg",
+    "hours": "Open daily 8 AM - 6 PM",
+    "features": ["art", "coffee", "toilet"],
+    "geo": { "lat": 37.792, "lon": -122.395 }
+  },
+  {
+    "id": 3,
+    "title": "101 California Street",
+    "address": "101 California",
+    "image": "101-california.jpg",
+    "hours": "Open daily 7 AM - 7 PM",
+    "features": ["outdoors", "coffee", "power"],
+    "geo": { "lat": 37.793, "lon": -122.398 }
+  },
+  {
+    "id": 4,
+    "title": "343 Sansome Roof Garden",
+    "address": "343 Sansome St.",
+    "image": "343-sansome-roof-garden.jpg",
+    "hours": "Open daily 10 AM - 4 PM",
+    "features": ["outdoors", "art"],
+    "geo": { "lat": 37.794, "lon": -122.399 }
+  },
+  {
+    "id": 5,
+    "title": "525 Market Street Plaza",
+    "address": "525 Market St.",
+    "image": "525-market-street-plaza.jpg",
+    "hours": "Open daily 9 AM - 6 PM",
+    "features": ["toilet", "power"],
+    "geo": { "lat": 37.795, "lon": -122.400 }
+  },
+  {
+    "id": 6,
+    "title": "Citigroup Center",
+    "address": "1 Sansome St.",
+    "image": "citigroup-center.jpg",
+    "hours": "Open 24 hours",
+    "features": ["coffee", "power"],
+    "geo": { "lat": 37.796, "lon": -122.401 }
+  }
+]

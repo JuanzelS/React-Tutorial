@@ -1,0 +1,10 @@
+.POPOSFeatureList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .POPOSFeatureList span {
+    font-size: 20px;
+  }
+  
